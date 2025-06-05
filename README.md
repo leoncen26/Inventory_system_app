@@ -12,3 +12,15 @@ Fitur utama dari aplikasi ini antara lain:
 6. Tampilan Modern dan Responsif: Antarmuka pengguna yang dirancang dengan Flutter untuk memberikan pengalaman yang cepat, responsif, dan intuitif pada berbagai ukuran layar.
 
 Aplikasi ini cocok digunakan oleh perusahaan retail, gudang penyimpanan, sekolah, ataupun instansi lainnya yang memerlukan sistem pelacakan inventaris yang praktis, efisien, dan berbasis mobile. Project aplikasi ini dilakukan dalam rangka untuk menyelesaikan Ujian Akhir Semester (UAS) mata kuliah Mobile & Cloud Computing
+
+## Homepage admin / dashboard admin
+![Image Alt](https://github.com/leoncen26/Inventory_system_app/blob/main/assets/Screenshoot/dashboard_admin.png)
+
+## add barang keluar page
+![Image Alt](https://github.com/leoncen26/Inventory_system_app/blob/main/assets/Screenshoot/add_barang_keluar.png)
+
+## grafik barang keluar
+![Image Alt](https://github.com/leoncen26/Inventory_system_app/blob/main/assets/Screenshoot/barang_keluar_grafik.png)
+
+## login page
+![Image Alt](https://github.com/leoncen26/Inventory_system_app/blob/main/assets/Screenshoot/login_page.png)
