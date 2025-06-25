@@ -3,7 +3,7 @@ Inventory System adalah sebuah aplikasi mobile yang dikembangkan menggunakan Flu
 
 Sistem ini dilengkapi dengan autentikasi pengguna yang membedakan antara peran admin dan user. Admin memiliki akses penuh terhadap sistem, termasuk kemampuan untuk menambahkan, memperbarui, dan menghapus data barang, serta melihat laporan riwayat transaksi barang masuk dan keluar. Sementara itu, user memiliki akses terbatas, seperti hanya dapat melihat stok yang tersedia dan melakukan permintaan pengambilan barang.
 
-Fitur utama dari aplikasi ini antara lain:
+Fitur utama dari aplikasi ini, antara lain:
 1. Autentikasi dan Otorisasi: Login menggunakan email dan password dengan dukungan Firebase Authentication, serta manajemen peran pengguna (admin dan user).
 2. Manajemen Inventaris: Tambah, edit, hapus, dan pencatatan barang masuk dan keluar secara langsung melalui aplikasi.
 3. Pelacakan Real-Time: Setiap perubahan pada inventaris langsung tersinkronisasi dan dapat dipantau secara real-time menggunakan Firebase Cloud Firestore.
