@@ -1,4 +1,4 @@
-# inventory_system
+# 📦 Inventory_system
 Inventory System adalah sebuah aplikasi mobile yang dikembangkan menggunakan Flutter, yang dirancang untuk membantu pelacakan barang masuk dan keluar secara real-time dalam suatu organisasi atau bisnis. Aplikasi ini menyediakan fitur-fitur yang memungkinkan pengguna untuk mencatat, memantau, dan mengelola stok barang secara efisien dan akurat.
 
 Sistem ini dilengkapi dengan autentikasi pengguna yang membedakan antara peran admin dan user. Admin memiliki akses penuh terhadap sistem, termasuk kemampuan untuk menambahkan, memperbarui, dan menghapus data barang, serta melihat laporan riwayat transaksi barang masuk dan keluar. Sementara itu, user memiliki akses terbatas, seperti hanya dapat melihat stok yang tersedia dan melakukan permintaan pengambilan barang.
